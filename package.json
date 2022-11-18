@@ -1,6 +1,6 @@
 {
-	"author": "Christopher Shim",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Christopher Shim",
 	"dependencies": {
 		"express": "^4.18.2"
 	},
